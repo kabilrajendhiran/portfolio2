@@ -1,3 +1,9 @@
+html{
+    scroll-behavior: smooth !important;
+    
+}
+
+
 body{
     font-size: 14px;
     color: black;
